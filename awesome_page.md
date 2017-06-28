@@ -7,7 +7,7 @@ In the words of Anna:
 
 ```
 
-We are elite programmers
+We are definitely elite programmers
 
 ```
 
